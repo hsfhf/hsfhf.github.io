@@ -10,7 +10,7 @@ myImage.onclick = function() {
 }
 function setHeading(name) {
     let myHeading = document.querySelector('h1');
-    myHeading.textContent = 'Mozilla 酷毙了，' + name + '！';
+    myHeading.textContent = 'Hello，' + name ;
   }
   
   function setUserName() {
