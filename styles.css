@@ -1,0 +1,13 @@
+li em {
+    color: rebeccapurple;
+}
+
+h1 + p {
+    font-size: 200%;
+}
+html {
+    background-color:rgb(255, 203, 184)
+}
+a:hover {
+    text-decoration: none;
+}
